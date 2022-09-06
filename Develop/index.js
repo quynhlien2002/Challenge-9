@@ -52,7 +52,7 @@ function writeToFile(filename, data) {
             return console.logg(err);
         }
 
-    console.log("Yay");
+    console.log("Success, you had created a README file");
     })
 }
 // const writeToFile = () => {
